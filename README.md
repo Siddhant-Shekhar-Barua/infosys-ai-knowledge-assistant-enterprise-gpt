@@ -399,8 +399,8 @@ pytest tests/functional_tests/ -v
 
 ## 👨‍💻 Project Lead & Contact
 
-**Ujwal Bamb**  
-*Team Lead \| Machine Learning & Full-Stack Systems Integration*  
-- **LinkedIn**: [linkedin.com/in/ujwal-bamb-276b04330](https://www.linkedin.com/in/ujwal-bamb-276b04330)  
-- **GitHub**: [github.com/Ujwal-Bamb](https://github.com/Ujwal-Bamb)  
-- **Portfolio Repository**: [infosys-ai-knowledge-assistant-enterprise-gpt](https://github.com/Ujwal-Bamb/infosys-ai-knowledge-assistant-enterprise-gpt.git)
+**Siddhant Shekhar Barua**  
+*Team member \| Machine Learning & Full-Stack Systems Integration*  
+- **LinkedIn**: [linkedin.com/in/ujwal-bamb-276b04330](https://www.linkedin.com/in/siddhant-shekhar-barua-b57854279/)  
+- **GitHub**: https://github.com/Siddhant-Shekhar-Barua  
+- **Portfolio Repository**: [infosys-ai-knowledge-assistant-enterprise-gpt](https://github.com/Siddhant-Shekhar-Barua/infosys-ai-knowledge-assistant-enterprise-gpt)
