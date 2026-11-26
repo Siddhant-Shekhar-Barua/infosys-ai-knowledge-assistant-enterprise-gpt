@@ -401,6 +401,6 @@ pytest tests/functional_tests/ -v
 
 **Siddhant Shekhar Barua**  
 *Team member \| Machine Learning & Full-Stack Systems Integration*  
-- **LinkedIn**: [linkedin.com/in/ujwal-bamb-276b04330](https://www.linkedin.com/in/siddhant-shekhar-barua-b57854279/)  
+- **LinkedIn**: (https://www.linkedin.com/in/siddhant-shekhar-barua-b57854279/)  
 - **GitHub**: https://github.com/Siddhant-Shekhar-Barua  
 - **Portfolio Repository**: [infosys-ai-knowledge-assistant-enterprise-gpt](https://github.com/Siddhant-Shekhar-Barua/infosys-ai-knowledge-assistant-enterprise-gpt)
